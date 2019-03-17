@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="13e68cce-8aa1-4490-a692-817fd63dde43" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="48" column="33" lean-forward="true" selection-start-line="47" selection-start-column="29" selection-end-line="48" selection-end-column="33" />
+            <state relative-caret-position="374">
+              <caret line="22" column="123" selection-start-line="22" selection-start-column="123" selection-end-line="22" selection-end-column="123" />
             </state>
           </provider>
         </entry>
@@ -114,7 +115,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552823472309" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552823631676" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../IntelliJ" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -147,7 +148,7 @@
       <option name="presentableId" value="Default" />
       <updated>1552754420458</updated>
       <workItem from="1552754424841" duration="7958000" />
-      <workItem from="1552821986065" duration="1482000" />
+      <workItem from="1552821986065" duration="1903000" />
     </task>
     <task id="LOCAL-00001" summary="update index">
       <created>1552756245655</created>
@@ -198,15 +199,21 @@
       <option name="project" value="LOCAL" />
       <updated>1552823071204</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update index">
+      <created>1552823563650</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1552823563650</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9440000" />
+    <option name="totallyTimeSpent" value="9861000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1087" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2549234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -287,8 +294,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="33" lean-forward="true" selection-start-line="47" selection-start-column="29" selection-end-line="48" selection-end-column="33" />
+        <state relative-caret-position="374">
+          <caret line="22" column="123" selection-start-line="22" selection-start-column="123" selection-end-line="22" selection-end-column="123" />
         </state>
       </provider>
     </entry>
